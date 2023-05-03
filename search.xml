@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
-    <url>/2023/04/24/test/</url>
+    <title>tags</title>
+    <url>/2023/04/24/Tags/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -24,18 +24,18 @@
 ]]></content>
   </entry>
   <entry>
-    <title>tags</title>
-    <url>/2023/04/24/Tags/</url>
+    <title>categories</title>
+    <url>/2023/05/02/categories/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2023/04/24/test/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>schedule</title>
     <url>/2023/05/02/schedule/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>categories</title>
-    <url>/2023/05/02/categories/</url>
     <content><![CDATA[]]></content>
   </entry>
 </search>
