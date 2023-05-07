@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>hello</title>
+    <title>hello world</title>
     <url>/2023/05/07/hello/</url>
-    <content><![CDATA[<h1 id="h1"><a href="#h1" class="headerlink" title="h1"></a>h1</h1><blockquote>
-<p>这段文字高亮强调</p>
-</blockquote>
-<h2 id="h2"><a href="#h2" class="headerlink" title="h2"></a>h2</h2><p><a href="">这是一个链接</a></p>
-<h3 id="h3"><a href="#h3" class="headerlink" title="h3"></a>h3</h3><p><img src="/" alt="这是一个图片"></p>
-<h4 id="h4"><a href="#h4" class="headerlink" title="h4"></a>h4</h4><p><em>这是一段斜体文字</em></p>
-<h5 id="h5"><a href="#h5" class="headerlink" title="h5"></a>h5</h5><p><strong>这是一段加粗文字</strong></p>
-<h6 id="h6"><a href="#h6" class="headerlink" title="h6"></a>h6</h6><p><em><strong>这是一段加粗斜体文字</strong></em></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>第二篇文章</title>
-    <url>/2023/05/07/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<p><img src="/2023/05/07/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/image.jpg" alt="这是一个图片"></p>
+    <content><![CDATA[<p>hello world</p>
 ]]></content>
   </entry>
 </search>
